@@ -1,0 +1,15 @@
+C:\Users\BAG22000293\Desktop\C# Intro\bin\Debug\net6.0\C# Intro.exe
+C:\Users\BAG22000293\Desktop\C# Intro\bin\Debug\net6.0\C# Intro.deps.json
+C:\Users\BAG22000293\Desktop\C# Intro\bin\Debug\net6.0\C# Intro.runtimeconfig.json
+C:\Users\BAG22000293\Desktop\C# Intro\bin\Debug\net6.0\C# Intro.dll
+C:\Users\BAG22000293\Desktop\C# Intro\bin\Debug\net6.0\ref\C# Intro.dll
+C:\Users\BAG22000293\Desktop\C# Intro\bin\Debug\net6.0\C# Intro.pdb
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\C# Intro.csproj.AssemblyReference.cache
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\C# Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\C# Intro.AssemblyInfoInputs.cache
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\C# Intro.AssemblyInfo.cs
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\C# Intro.csproj.CoreCompileInputs.cache
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\C# Intro.dll
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\ref\C# Intro.dll
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\C# Intro.pdb
+C:\Users\BAG22000293\Desktop\C# Intro\obj\Debug\net6.0\C# Intro.genruntimeconfig.cache
